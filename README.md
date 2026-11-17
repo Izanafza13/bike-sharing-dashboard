@@ -2,7 +2,7 @@
 
 Analisis data penyewaan sepeda Capital Bikeshare (Washington D.C., 2011–2012) beserta dashboard interaktif Streamlit.
 
-**Demo dashboard:** https://bike-sharing-dashboard-q8ajb6wnpohddocdfdmfbs.streamlit.app/
+**Demo dashboard:** https://bike-sharing-dashboard-analytics.streamlit.app/
 
 ## Pertanyaan Bisnis
 1. Pada jam berapa permintaan memuncak pada hari kerja vs akhir pekan/libur, dan berapa persen permintaan terkonsentrasi di jam sibuk?
